@@ -1,0 +1,6 @@
+{ "name":"Orlando", "gender":"M", "age":40, "favorite_language":"Python"}
+{ "name":"Lina", "gender":"F", "age":39, "favorite_language":"C#"}
+{ "name":"John", "gender":"M", "age":30, "favorite_language":"Python"}
+{ "name":"Jane", "gender":"F", "age":32, "favorite_language":"Python"}
+{ "name":"Michelle", "gender":"F", "age":18, "favorite_language":"Python"}
+{ "name":"Daniel", "gender":"M", "age":20, "favorite_language":"C#"}

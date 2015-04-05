@@ -1,0 +1,6 @@
+Orlando	M	40	Python
+Lina	F	39	C#
+John	M	30	Python
+Jane	F	32	Python
+Michelle	F	18	Python
+Daniel	M	20	C#

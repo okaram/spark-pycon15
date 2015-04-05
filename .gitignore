@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# mine - backup, derby
+*~
+derby.log
+metastore_db/
