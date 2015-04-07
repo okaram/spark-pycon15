@@ -9,6 +9,9 @@ mkdir spark
 cd spark
 tar -xzvf ../spark-1.3.0-bin-hadoop2.4.tgz
 mv spark-1.3.0-bin-hadoop2.4 spark
+# get a useful log4j.properties
+curl https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/log4j.properties > spark/spark/conf/log4j.properties
+
 git clone https://github.com/okaram/spark-pycon15
 
 # install java from David Branner
