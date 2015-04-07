@@ -1,3 +1,4 @@
+sudo apt-get update
 sudo apt-get install git
 
 # install geany with terminal emulator (feel free to comment if prefer favorite editor)
@@ -8,6 +9,7 @@ wget http://d3kbcqa49mib13.cloudfront.net/spark-1.3.0-bin-hadoop2.4.tgz
 mkdir spark
 cd spark
 tar -xzvf ../spark-1.3.0-bin-hadoop2.4.tgz
+rm ../spark-1.3.0-bin-hadoop2.4.tgz
 mv spark-1.3.0-bin-hadoop2.4 spark
 # get a useful log4j.properties
 curl https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/log4j.properties > spark/spark/conf/log4j.properties
