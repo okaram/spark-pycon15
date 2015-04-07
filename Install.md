@@ -4,5 +4,6 @@ I've tested the materials mostly on Ubuntu, with python 2.7 and Oracle Java 1.8,
 
 David Branner has set up a vagrant file, available in github at [https://github.com/DataBranner/spark-pycon15_study](https://github.com/DataBranner/spark-pycon15_study) Thanks David !!! If you like VMs and have a laptop powerful enough, this is amazing.
 
-I'm preparing a script for install on ubuntu; you can either download and run  https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/install_ubuntu.sh
-
+I'm preparing a script for install on ubuntu; you can download and run it it is at  [https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/install_ubuntu.sh](https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/install_ubuntu.sh) or just type
+`curl https://raw.githubusercontent.com/okaram/spark-pycon15/master/scripts/install_ubuntu.sh | bash`
+if you like to live dangerously :)
